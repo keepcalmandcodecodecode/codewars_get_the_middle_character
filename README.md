@@ -1,0 +1,1 @@
+# codewars_get_the_middle_character
