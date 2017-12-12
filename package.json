@@ -1,0 +1,19 @@
+{
+  "name": "codewars_get_the_middle_character",
+  "version": "1.0.0",
+  "description": "task: https://www.codewars.com/kata/get-the-middle-character",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keepcalmandcodecodecode/codewars_get_the_middle_character.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/keepcalmandcodecodecode/codewars_get_the_middle_character#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
